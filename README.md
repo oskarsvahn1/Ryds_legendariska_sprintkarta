@@ -4,8 +4,9 @@ Sprintkarta över Ryd
 **Yta:**	0,7 km2
 **Utgivningsår:**	2021
 
-**Kartritare: 
-**  **SÖ-delen**: Oskar Svahn,
+**Kartritare:** 
+
+**SÖ-delen**: Oskar Svahn,
   **NV-delen**: Jesper Sjöblom
   
 [Omaps](https://www.omaps.net/se?id=61085)
