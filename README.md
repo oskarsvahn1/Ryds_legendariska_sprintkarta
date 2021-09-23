@@ -1,15 +1,16 @@
-# Ryds_legendariska_sprintkarta
+# Ryds legendaris sprintkarta
 Sprintkarta över Ryd
 
 **Yta:**	0,7 km2
+
 **Utgivningsår:**	2021
 
 **Kartritare:** 
 
-**SÖ-delen**: Oskar Svahn,
-  **NV-delen**: Jesper Sjöblom
+- **SÖ**-delen: Oskar Svahn,
+- **NV**-delen: Jesper Sjöblom
   
-[Omaps](https://www.omaps.net/se?id=61085)
+Kartan finns även på [Omaps](https://www.omaps.net/se?id=61085).
 
 Kartan är fri att användas (och kartritarna blir fett glada om den används) för all typ av träning, både för enskilda individer eller klubbar, så länge följande två punkter är uppfyllda:
 1. Arrangemanget genererar inte någon inkomst till arrangerande individ/förening i form av t.ex. anmälningsavgifter. 
