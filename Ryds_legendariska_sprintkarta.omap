@@ -563,7 +563,7 @@ The purple line will extend a bit into the finish symbol. This is a shortcoming 
 <symbol type="2" id="179" code="2" name="Line"><line_symbol color="32" line_width="100" minimum_length="0" join_style="1" cap_style="0" start_offset="0" end_offset="0" segment_length="4000" end_length="0" show_at_least_one_symbol="true" minimum_mid_symbol_count="0" minimum_mid_symbol_count_when_closed="0" dash_length="4000" break_length="1000" dashes_in_group="1" in_group_break_length="500" mid_symbols_per_spot="1" mid_symbol_distance="0"/></symbol>
 </symbols>
 <parts count="1" current="0">
-<part name="förvald del"><objects count="6580">
+<part name="förvald del"><objects count="6581">
 <object type="1" symbol="108"><tags><t k="DETALJTYP">V�GGG.M</t><t k="NAMN1">Universitetsv�gen</t><t k="ADAT">2009-05-13 14:54</t><t k="XYFEL">1000</t><t k="NIVA">1</t></tags><coords count="2">-136517 -248527;-137674 -252603;</coords><pattern rotation="0"><coord x="-207980" y="-205480"/></pattern></object>
 <object type="1" symbol="108"><tags><t k="DETALJTYP">V�GBN.M</t><t k="NAMN1">Ryds all�</t><t k="ADAT">2015-12-10 06:58</t><t k="XYFEL">600</t><t k="NIVA">1</t></tags><coords count="2">-190114 -137862;-186732 -130965;</coords><pattern rotation="0"><coord x="-207980" y="-205480"/></pattern></object>
 <object type="1" symbol="108"><tags><t k="DETALJTYP">V�GBN.M</t><t k="NAMN1">M�rdtorpsgatan</t><t k="ADAT">2016-01-12 14:56</t><t k="XYFEL">600</t><t k="NIVA">1</t></tags><coords count="3">-190114 -137862;-180740 -142784;-176885 -144676;</coords><pattern rotation="0"><coord x="-207980" y="-205480"/></pattern></object>
@@ -7141,9 +7141,10 @@ The purple line will extend a bit into the finish symbol. This is a shortcoming 
 <object type="1" symbol="129"><coords count="10">-182977 -236404 1;-183137 -235931;-183273 -235420;-182866 -235131 1;-182631 -234964;-182804 -234889;-182745 -234607 1;-182704 -234412;-182398 -234337;-182227 -234235 16;</coords><pattern rotation="0"><coord x="0" y="0"/></pattern></object>
 <object type="1" symbol="129"><coords count="10">-180955 -234955 1;-180884 -235241;-180834 -235494;-181040 -235705 1;-181228 -235898;-181206 -236155;-181206 -236424 1;-181206 -236584;-181612 -236867;-181750 -236948 16;</coords><pattern rotation="0"><coord x="0" y="0"/></pattern></object>
 <object type="4" symbol="5" rotation="0.398149" h_align="1" v_align="2"><coords count="1">-232491 -207907;</coords><text>OL1</text></object>
-<object type="4" symbol="5" rotation="0.398149" h_align="1" v_align="2"><coords count="1">-244481 -218036;</coords><text>OL2</text></object>
+<object type="4" symbol="5" rotation="0.398149" h_align="1" v_align="2"><coords count="1">-244566 -218050;</coords><text>OL2</text></object>
 <object type="4" symbol="5" rotation="0.398149" h_align="1" v_align="2"><coords count="1">-239268 -220731;</coords><text>OL3</text></object>
 <object type="4" symbol="5" rotation="-1.12104" h_align="1" v_align="2"><coords count="1">-225186 -241888;</coords><text>OL4</text></object>
+<object type="0" symbol="1" rotation="-0.867574"><coords count="1">-191696 -298871;</coords></object>
 </objects></part>
 </parts>
 <templates count="10" first_front_template="7">
@@ -7161,13 +7162,11 @@ The purple line will extend a bit into the finish symbol. This is a shortcoming 
 </templates>
 <view>
 <grid color="#646464" display="0" alignment="0" additional_rotation="0" unit="1" h_spacing="500" v_spacing="500" h_offset="0" v_offset="0" snapping_enabled="true"/>
-<map_view zoom="0.707107" position_x="-255053" position_y="-227940" overprinting_simulation_enabled="true"><map opacity="1" visible="true"/><templates count="7"><ref template="0" opacity="1"/><ref template="1" visible="true" opacity="1"/><ref template="2" visible="true" opacity="1"/><ref template="3" opacity="1"/><ref template="5" opacity="1"/><ref template="4" visible="true" opacity="1"/><ref template="6" opacity="1"/></templates></map_view>
+<map_view zoom="0.707107" position_x="-158339" position_y="-237215" overprinting_simulation_enabled="true"><map opacity="1" visible="true"/><templates count="7"><ref template="0" opacity="1"/><ref template="1" visible="true" opacity="1"/><ref template="2" visible="true" opacity="1"/><ref template="3" opacity="1"/><ref template="5" opacity="1"/><ref template="4" visible="true" opacity="1"/><ref template="6" opacity="1"/></templates></map_view>
 </view>
 </barrier>
 <barrier version="6" required="0.6.0">
 <undo>
-<step type="1"><affected_objects part="0"><ref object="6536"/></affected_objects></step>
-<step type="1"><affected_objects part="0"><ref object="6537"/></affected_objects></step>
 <step type="0"><affected_objects part="0"><ref object="1211"/></affected_objects><contained_objects count="1"><object type="0" symbol="97"><coords count="1">-142585 -226781;</coords></object></contained_objects></step>
 <step type="0"><affected_objects part="0"><ref object="1212"/></affected_objects><contained_objects count="1"><object type="0" symbol="97"><coords count="1">-143942 -226715;</coords></object></contained_objects></step>
 <step type="1"><affected_objects part="0"><ref object="6538"/></affected_objects></step>
@@ -7294,6 +7293,8 @@ The purple line will extend a bit into the finish symbol. This is a shortcoming 
 <step type="0"><affected_objects part="0"><ref object="6579"/></affected_objects><contained_objects count="1"><object type="4" symbol="5" rotation="0.398149" h_align="1" v_align="2"><coords count="1">-225186 -241888;</coords><text>OL4</text></object></contained_objects></step>
 <step type="0"><affected_objects part="0"><ref object="6578"/></affected_objects><contained_objects count="1"><object type="4" symbol="5" rotation="0.398149" h_align="1" v_align="2"><coords count="1">-239638 -220432;</coords><text>OL3</text></object></contained_objects></step>
 <step type="0"><affected_objects part="0"><ref object="6577"/></affected_objects><contained_objects count="1"><object type="4" symbol="5" rotation="0.398149" h_align="1" v_align="2"><coords count="1">-244509 -218178;</coords><text>OL2</text></object></contained_objects></step>
+<step type="0"><affected_objects part="0"><ref object="6577"/></affected_objects><contained_objects count="1"><object type="4" symbol="5" rotation="0.398149" h_align="1" v_align="2"><coords count="1">-244481 -218036;</coords><text>OL2</text></object></contained_objects></step>
+<step type="1"><affected_objects part="0"><ref object="6580"/></affected_objects></step>
 </undo>
 <redo>
 </redo>
